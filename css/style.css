@@ -100,8 +100,19 @@ form label, form legend {
     width: 50%;
 }
 
+.horario {
+    margin-top: 10px;
+}
+
+.horario select {
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 15%;
+    text-align: center;
+}
+
 .checkbox {
-    margin: 20px 0;
+    margin: 27px 0;
 }
 
 .enviar {
@@ -119,7 +130,23 @@ form label, form legend {
 
 .enviar:hover {
     background: darkorange;
-    transform: scale(1.2) rotate(4deg);
+    transform: scale(1.2) rotate(2deg);
+}
+
+table {
+    margin: 40px 0px 20px;
+    display: block;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: solid 1px #000;
+    padding: 15px 12px;
 }
 
 footer {
