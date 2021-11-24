@@ -78,18 +78,6 @@ nav a:hover{
     margin: 10px 0 0;
 }
 
-footer {
-    text-align: center;
-    background: url("../img/produtos/bg.jpg");
-    padding: 40px 0;
-}
-
-.copyright {
-    color: #FFFFFF;
-    font-size: 13px;
-    margin-top: 20px;
-}
-
 main {
     width: 940px;
     margin: 0 auto;
@@ -110,4 +98,16 @@ form input {
     margin: 0 0 10px;
     padding: 10px 25px;
     width: 50%;
+}
+
+footer {
+    text-align: center;
+    background: url("../img/produtos/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
 }
