@@ -1,0 +1,66 @@
+
+form {
+    margin: 40px 0;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.horario {
+    margin-top: 10px;
+}
+
+.horario select {
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 15%;
+    text-align: center;
+}
+
+.checkbox {
+    margin: 27px 0;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2) rotate(2deg);
+}
+
+table {
+    margin: 40px 0px 20px;
+    display: block;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: solid 1px #000;
+    padding: 15px 12px;
+}
