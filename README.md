@@ -5,7 +5,7 @@ _HTML5 & CSS3_
 - [x] Parte 1: A primeira página da Web
 - [x] Parte 2: Posicionamento, listas e navegação
 - [x] Parte 3: Trabalhando com formulários e tabelas
-- [ ] Parte 4: Avançando no CSS
+- [x] Parte 4: Avançando no CSS
 - [ ] Acessibilidade web parte 1: tornando seu front-end inclusivo
 
 _JavaScript a linguagem da Web_
