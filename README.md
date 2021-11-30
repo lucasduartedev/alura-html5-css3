@@ -9,9 +9,9 @@ _HTML5 & CSS3_
 - [ ] Acessibilidade web parte 1: tornando seu front-end inclusivo
 
 _JavaScript a linguagem da Web_
-- [ ] JavaScript: primeiros passos com a linguagem
-- [ ] JavaScript: Programando a Orientação a Objetos
-- [ ] JavaScript: Interfaces e Herança em Orientação a Objetos
+- [x] JavaScript: primeiros passos com a linguagem
+- [x] JavaScript: Programando a Orientação a Objetos
+- [x] JavaScript: Interfaces e Herança em Orientação a Objetos
 
 _Front end UI_
 - [ ] Layouts Responsivos: Trabalhando com layouts mobile
